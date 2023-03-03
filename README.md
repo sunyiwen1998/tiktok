@@ -31,13 +31,13 @@ we use Postman to test request.
 
 import **./postman** in Postman，we can see :
 
-![202303031231510](/Users/ozliinex/projects/tiktok/docs/img/202303031233520.png)
+![202303031231510](docs/img/202303031233520.png)
 
 We have preset the request, you can directly modify the request parameters for testing
 
 # Architecture Design
 
-![202303031231510](/Users/ozliinex/projects/tiktok/docs/img/202303031231510.jpg)
+![202303031231510](docs/img/202303031231510.jpg)
 
 # Directory Structure
 
