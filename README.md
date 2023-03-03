@@ -39,6 +39,12 @@ We have preset the request, you can directly modify the request parameters for t
 
 ![202303031231510](docs/img/202303031231510.jpg)
 
+# Tracer
+
+Visit `http://localhost:16686` for more detail
+
+![](docs/img/20230303132744.png)
+
 # Directory Structure
 
 Next, some directories will be annotated in Chinese
