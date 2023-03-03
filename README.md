@@ -29,7 +29,7 @@ sh run.sh
 
 we use Postman to test request.
 
-import **./postman** in Postman，we can see :
+import **./postman** to Postman，we can see :
 
 ![202303031231510](docs/img/202303031233520.png)
 
